@@ -1,2 +1,2 @@
 # Edubridge
-Uploading pattern_Assignment
+Uplaoded pattern_Assignments from EduBridge.
